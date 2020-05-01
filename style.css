@@ -1,0 +1,28 @@
+.navbar {
+    padding: 0rem 1rem;
+}
+
+.navbar-brand {
+    background-color: teal;
+    padding: 30px;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+body {
+    background-image: url("background-pattern.jpg");
+}
+
+.about {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#bio-pic {
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}
