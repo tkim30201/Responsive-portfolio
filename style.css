@@ -15,6 +15,10 @@ body {
     background-image: url("background-pic.jpg");
 }
 
+h1 {
+    color: teal;
+}
+
 .about {
     background-color: white;
     padding: 20px;
