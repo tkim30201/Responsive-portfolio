@@ -38,8 +38,32 @@ h1 {
 }
 
 #bio-pic {
-    height: 200px;
+    height: 250px;
     float: left;
+    margin-right: 20px;
+}
+
+#educ {
+    height: 250px;
+    float: left;
+    margin-left: 10px;
+}
+
+#work-ex {
+    height: 250px;
+    float: right;
+    margin-right: 20px;
+}
+
+#skills {
+    height: 250px;
+    float: left;
+    margin-left: 10px;
+}
+
+#volunteer {
+    height: 300px;
+    float: right;
     margin-right: 20px;
 }
 
@@ -57,4 +81,8 @@ h2 {
     padding: 30px;
     font-size: 15px; 
     margin-left: 40rem;
+}
+
+footer {
+    margin-bottom: 200px;
 }
