@@ -21,6 +21,12 @@ body {
     margin-top: 20px;
 }
 
+.portfolio {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
 #bio-pic {
     height: 200px;
     float: left;
