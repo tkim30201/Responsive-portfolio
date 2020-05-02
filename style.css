@@ -46,3 +46,15 @@ h1 {
 .btn {
     background-color: teal;
 }
+
+.navbar-light .fixed-bottom {
+    background-color: gray;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 0rem;
+    padding: 30px;
+    font-size: 15px; 
+    margin-left: 40rem;
+}
